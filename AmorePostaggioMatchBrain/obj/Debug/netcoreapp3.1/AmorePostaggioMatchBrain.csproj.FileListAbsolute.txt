@@ -1,0 +1,17 @@
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\bin\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.exe
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\bin\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.deps.json
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\bin\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.runtimeconfig.json
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\bin\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.runtimeconfig.dev.json
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\bin\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.dll
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\bin\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.pdb
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.csprojAssemblyReference.cache
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\AmorePostaggioMatchBrain_MarkupCompile.cache
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\AmorePostaggioMatchBrain_MarkupCompile.lref
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.g.resources
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.AssemblyInfoInputs.cache
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.AssemblyInfo.cs
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.dll
+C:\Users\donat\source\repos\AmorePostaggioMatchBrain\AmorePostaggioMatchBrain\obj\Debug\netcoreapp3.1\AmorePostaggioMatchBrain.pdb

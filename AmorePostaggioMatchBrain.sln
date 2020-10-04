@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmorePostaggioMatchBrain", "AmorePostaggioMatchBrain\AmorePostaggioMatchBrain.csproj", "{6C4C988F-2911-45E1-981B-7B92C04E5710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4C988F-2911-45E1-981B-7B92C04E5710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4C988F-2911-45E1-981B-7B92C04E5710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4C988F-2911-45E1-981B-7B92C04E5710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4C988F-2911-45E1-981B-7B92C04E5710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683F900D-D4A6-4C0E-8477-25C0DA71A6C0}
+	EndGlobalSection
+EndGlobal

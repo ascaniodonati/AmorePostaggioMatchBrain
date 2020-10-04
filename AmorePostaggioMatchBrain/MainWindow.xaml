@@ -1,0 +1,51 @@
+﻿<Window x:Class="AmorePostaggioMatchBrain.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AmorePostaggioMatchBrain"
+        mc:Ignorable="d"
+        Title="AmorePostaggioMatchBrain" Height="428" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="5,5,5,5" x:Name="grdHeaderL" Grid.ColumnSpan="1">
+            <Button x:Name="btnImportCsv" Padding="5" Click="btnImportCsv_Click">Importa</Button>
+            <Button x:Name="btnRefreshCsv" Padding="5" Click="btnRefreshCsv_Click">Ricarica</Button>
+            <Button x:Name="btnUnisciDoppioni" Margin="5,0,0,0" Padding="5" Click="btnUnisciDoppioni_Click">Unisci doppioni</Button>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" x:Name="grdHeaderR" Grid.Column="1">
+            <ComboBox x:Name="cmbNomi" SelectionChanged="cmbNomi_SelectionChanged"></ComboBox>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" x:Name="grdHeaderRR" Grid.Column="2">
+            <ComboBox x:Name="cmbNomi2" SelectionChanged="cmbNomi2_SelectionChanged"></ComboBox>
+        </StackPanel>
+
+        <Grid Grid.Row="1" x:Name="grdBody" Grid.ColumnSpan="1">
+            <DataGrid x:Name="dgrCsv" SelectionChanged="dgrCsv_SelectionChanged" IsReadOnly="True"></DataGrid>
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="2">
+            <TextBlock x:Name="txtResult" TextWrapping="Wrap"></TextBlock>
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="1" x:Name="grdAccoppiamenti">
+            <DataGrid x:Name="dgrAccoppiamenti" IsReadOnly="True" SelectionChanged="dgrAccoppiamenti_SelectionChanged"></DataGrid>
+        </Grid>
+
+        <Grid Grid.Row="1" x:Name="grdFooter" Grid.ColumnSpan="3" Margin="0,396,0,0">
+
+        </Grid>
+    </Grid>
+</Window>
